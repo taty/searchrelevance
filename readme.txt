@@ -31,7 +31,7 @@ to hide it.
 
 == Frequently Asked Questions ==
 
-Q: Whres the settings?
+Q: Where's the settings?
 
 A: There arn't any!  Just activate the plugin and searches will start being returned in an order more relavent to the search query.
 
