@@ -16,9 +16,9 @@ Just install in the typical WordPress plugin way and it will adjust searches aut
 
 Also adds a relevance to the title of search results, which you can style via css.
 Try
-    span.ssrch_relevance { float:right; }
+    `span.ssrch_relevance { float:right; }`
 or
-    span.ssrch_relevance { display: none; }
+    `span.ssrch_relevance { display: none; }`
 to hide it.
 
 
@@ -32,6 +32,7 @@ to hide it.
 == Frequently Asked Questions ==
 
 Q: Whres the settings?
+
 A: There arn't any!  Just activate the plugin and searches will start being returned in an order more relavent to the search query.
 
 == Changelog ==
