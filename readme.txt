@@ -3,7 +3,7 @@ Contributors: SableDnah
 Donate link: https://www.paypal.com/cgi-bin/webscr?business=darrendouglas%40gmail.com&bn=PP-DonationsBF%3Abtn_donateCC_LG.gif%3ANonHosted&lc=US&item_name=SearchRelevance%29&cmd=_donations&rm=1&no_shipping=1&currency_code=GBP
 Tags: search, relevance, relavence, relevant, relavent, relevanssi, wp-search
 Requires at least: 3.6.0
-Tested up to: 3.6.0
+Tested up to: 3.6.1
 Stable tag: 2.0.0
 
 Adjust WordPress search results to order by relevance, not by date.
