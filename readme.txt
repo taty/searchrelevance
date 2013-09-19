@@ -18,10 +18,11 @@ Just install in the typical WordPress plugin way and it will adjust searches aut
 Also adds a relevance score to the title of search results, which you can style via css (see FAQ).
 
 Version 2.0 gives you more control, including:
-1. Hide relavence scores in results titels and/or admin
-2  Auto style relavence scores. So you dont have to add float:right to your css! 
-3. Highlight search terms 
-4. Custom excerpt centered on the search terms found
+
+* Hide relavence scores in results titels and/or admin
+* Auto style relavence scores. So you dont have to add float:right to your css! 
+* Highlight search terms 
+* Custom excerpt centered on the search terms found
 
 
 == Installation ==
@@ -56,7 +57,9 @@ The highlights are styles via `b.ssrch_highlight`.
 
 = 2.0 =
 Fixes html in admin media search results.   
+
 Adds new options to contol search display including:
+
 1. Hidie relevance info in result titles
 2. Hide relevance info in admin
 3. Attempt to auto style relavence in results
