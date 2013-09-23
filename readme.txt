@@ -15,12 +15,12 @@ Adjust WordPress search results to order by relevance, not by date.
 
 Just install in the typical WordPress plugin way and it will adjust searches automatically, no settings needed.
 
-Also adds a relevance score to the title of search results, which you can style via css (see FAQ).
+Also adds a relevance score to the title of search results, which you can style via CSS (see FAQ).
 
 Version 2.0 gives you more control, including:
 
-* Hide relavence scores in results titels and/or admin
-* Auto style relavence scores. So you dont have to add float:right to your css! 
+* Hide relevance scores in results titles and/or admin
+* Auto style relavence scores. So you don't have to add float:right to your CSS!
 * Highlight search terms 
 * Custom excerpt centered on the search terms found
 

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SearchRelevance
-Plugin URI: http://www.sabletopia.co.uk/SearchRelevance/
+Plugin URI: http://www.sabletopia.co.uk/search-relevance/
 Description: Adjust WordPress search results to order by relevance, not by date.
 Version: 2.0.0
 Author: Darren Douglas
